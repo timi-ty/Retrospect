@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    tools:context=".ActivityLevels"
+    android:id="@+id/achievements_layout"
+    android:background="@drawable/background_gradient">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="contentDescription"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_00" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="contentDescription"
+        android:id="@+id/back_vector"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="contentDescription"
+        android:id="@+id/back_arrow"
+        app:srcCompat="@drawable/back_button"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="contentDescription"
+        android:id="@+id/big_achievements_ic"
+        app:srcCompat="@drawable/big_achievements_icon"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="contentDescription"
+        android:id="@+id/achievements_title"
+        app:srcCompat="@drawable/achievements_title"/>
+
+    <ListView
+        android:id="@+id/achievements_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/transparent"
+        android:gravity="center">
+
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="200dp"
+    android:width="117dp"
+    android:viewportHeight="1792"
+    android:viewportWidth="1050">
+    <group
+        android:name="g1">
+        <path
+            android:name="c1"
+            android:layout_height="wrap_content"
+            android:fillColor="#FFC107"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g2">
+        <path
+            android:name="c2"
+            android:layout_height="wrap_content"
+            android:fillColor="#F44336"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g3">
+        <path
+            android:name="c3"
+            android:layout_height="wrap_content"
+            android:fillColor="#00BCD4"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g4">
+        <path
+            android:name="c4"
+            android:layout_height="wrap_content"
+            android:fillColor="#E91E63"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g5">
+        <path
+            android:name="c5"
+            android:layout_height="wrap_content"
+            android:fillColor="#4CAF50"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g6">
+        <path
+            android:name="c6"
+            android:layout_height="wrap_content"
+            android:fillColor="#3F51B5"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g7">
+        <path
+            android:name="c7"
+            android:layout_height="wrap_content"
+            android:fillColor="#FF9800"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g8">
+        <path
+            android:name="c8"
+            android:layout_height="wrap_content"
+            android:fillColor="#8BC34A"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g9">
+        <path
+            android:name="c9"
+            android:layout_height="wrap_content"
+            android:fillColor="#9C27B0"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g10">
+        <path
+            android:name="c10"
+            android:layout_height="wrap_content"
+            android:fillColor="#FFEB3B"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g11">
+        <path
+            android:name="c11"
+            android:layout_height="wrap_content"
+            android:fillColor="#009688"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+    <group
+        android:name="g12">
+        <path
+            android:name="c12"
+            android:layout_height="wrap_content"
+            android:fillColor="#E607FF"
+            android:pathData="M5,10 L 27.5,10 25,20 2.5,20z" />
+    </group>
+</vector>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="21"
+    android:drawable="@drawable/explode_vector" >
+
+    <target
+        android:name="scaleGroup1"
+        android:animation="@animator/explode01" />
+    <target
+        android:name="scaleGroup2"
+        android:animation="@animator/explode02" />
+    <target
+        android:name="scaleGroup3"
+        android:animation="@animator/explode03" />
+    <target
+        android:name="scaleGroup4"
+        android:animation="@animator/explode04" />
+    <target
+        android:name="scaleGroup5"
+        android:animation="@animator/explode05" />
+    <target
+        android:name="scaleGroup6"
+        android:animation="@animator/explode06" />
+    <target
+        android:name="scaleGroup7"
+        android:animation="@animator/explode11" />
+    <target
+        android:name="scaleGroup8"
+        android:animation="@animator/explode12" />
+    <target
+        android:name="scaleGroup9"
+        android:animation="@animator/explode13" />
+    <target
+        android:name="scaleGroup10"
+        android:animation="@animator/explode14" />
+    <target
+        android:name="scaleGroup11"
+        android:animation="@animator/explode15" />
+    <target
+        android:name="scaleGroup12"
+        android:animation="@animator/explode16" />
+
+</animated-vector>

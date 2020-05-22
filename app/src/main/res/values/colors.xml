@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00e2e2e2</color>
+    <color name="black">#000000</color>
+    <color name="app_text_color">#333333</color>
+    <color name="retrospect_blue">#2ba9d7</color>
+    <color name="green">#82c66d</color>
+    <color name="platinum">#cff1ee</color>
+    <color name="gold">#ffb835</color>
+    <color name="silver">#c4c3c1</color>
+    <color name="bronze">#c48914</color>
+    <color name="red">#FF2115</color>
+    <color name="yellow">#FFC107</color>
+    <color name="beginner_theme">#ff687e</color>
+    <color name="intermediate_theme">#e2b9ff</color>
+    <color name="expert_theme">#efea54</color>
+    <color name="eidetic_theme">#ff0974</color>
+    <color name="zen_theme">#1cb373</color>
+</resources>

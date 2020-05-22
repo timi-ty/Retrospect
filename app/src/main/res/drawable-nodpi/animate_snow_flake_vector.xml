@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="21"
+    android:drawable="@drawable/snow_flake_vectors" >
+    <target
+        android:name="flake01"
+        android:animation="@animator/snow_animation01" />
+    <target
+        android:name="sf1"
+        android:animation="@animator/snow_fade01" />
+    <target
+        android:name="flake02"
+        android:animation="@animator/snow_animation02" />
+    <target
+        android:name="sf2"
+        android:animation="@animator/snow_fade02" />
+    <target
+        android:name="flake03"
+        android:animation="@animator/snow_animation03" />
+    <target
+        android:name="sf3"
+        android:animation="@animator/snow_fade03" />
+    <target
+        android:name="flake04"
+        android:animation="@animator/snow_animation04" />
+    <target
+        android:name="sf4"
+        android:animation="@animator/snow_fade04" />
+    <target
+        android:name="flake05"
+        android:animation="@animator/snow_animation05" />
+    <target
+        android:name="sf5"
+        android:animation="@animator/snow_fade05" />
+    <target
+        android:name="flake06"
+        android:animation="@animator/snow_animation06" />
+    <target
+        android:name="sf6"
+        android:animation="@animator/snow_fade06" />
+    <target
+        android:name="flake07"
+        android:animation="@animator/snow_animation07" />
+    <target
+        android:name="sf7"
+        android:animation="@animator/snow_fade01" />
+    <target
+        android:name="flake08"
+        android:animation="@animator/snow_animation08" />
+    <target
+        android:name="sf8"
+        android:animation="@animator/snow_fade02" />
+    <target
+        android:name="flake09"
+        android:animation="@animator/snow_animation09" />
+    <target
+        android:name="sf9"
+        android:animation="@animator/snow_fade03" />
+    <target
+        android:name="flake10"
+        android:animation="@animator/snow_animation10" />
+    <target
+        android:name="sf10"
+        android:animation="@animator/snow_fade04" />
+    <target
+        android:name="flake11"
+        android:animation="@animator/snow_animation11" />
+    <target
+        android:name="sf11"
+        android:animation="@animator/snow_fade05" />
+    <target
+        android:name="flake12"
+        android:animation="@animator/snow_animation12" />
+    <target
+        android:name="sf12"
+        android:animation="@animator/snow_fade06" />
+</animated-vector>

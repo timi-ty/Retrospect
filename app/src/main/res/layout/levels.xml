@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".ActivityLevels"
+    android:id="@+id/levels_layout"
+    android:background="@drawable/background_gradient">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="contentDescription"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_00"
+        android:id="@+id/levels_back"/>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="contentDescription"
+        android:id="@+id/back_vector"/>
+
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/levels_grid_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="4"
+        android:listSelector="@drawable/level_selector"
+        android:drawSelectorOnTop="true"
+        android:gravity="center"
+        android:background="@color/transparent">
+
+    </GridView>
+
+
+</RelativeLayout>

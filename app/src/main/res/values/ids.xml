@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="ad_view" type="id"/>
+    <item name="high_score" type="id"/>
+    <item name="player_name" type="id"/>
+    <item name="player_position" type="id"/>
+    <item name="avatar" type="id"/>
+    <item name="badge_medal" type="id"/>
+    <item name="info_container" type="id"/>
+    <item name="achievement_image" type="id"/>
+    <item name="achievement_text_container" type="id"/>
+    <item name="achievement_name" type="id"/>
+    <item name="achievement_description" type="id"/>
+    <item name="achievement_status" type="id"/>
+
+</resources>

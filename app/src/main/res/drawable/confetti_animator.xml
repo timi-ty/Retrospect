@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="21"
+    android:drawable="@drawable/confetti">
+
+    <target
+        android:name="g1"
+        android:animation="@animator/confetti_move01" />
+    <target
+        android:name="c1"
+        android:animation="@animator/confetti_shimmer_a" />
+
+    <target
+        android:name="g2"
+        android:animation="@animator/confetti_move02" />
+    <target
+        android:name="c2"
+        android:animation="@animator/confetti_shimmer_b" />
+
+    <target
+        android:name="g3"
+        android:animation="@animator/confetti_move03" />
+    <target
+        android:name="c3"
+        android:animation="@animator/confetti_shimmer_c" />
+
+    <target
+        android:name="g4"
+        android:animation="@animator/confetti_move04" />
+    <target
+        android:name="c4"
+        android:animation="@animator/confetti_shimmer_a" />
+
+    <target
+        android:name="g5"
+        android:animation="@animator/confetti_move05" />
+    <target
+        android:name="c5"
+        android:animation="@animator/confetti_shimmer_b" />
+
+    <target
+        android:name="g6"
+        android:animation="@animator/confetti_move06" />
+    <target
+        android:name="c6"
+        android:animation="@animator/confetti_shimmer_c" />
+
+    <target
+        android:name="g7"
+        android:animation="@animator/confetti_move07" />
+    <target
+        android:name="c7"
+        android:animation="@animator/confetti_shimmer_a" />
+
+    <target
+        android:name="g8"
+        android:animation="@animator/confetti_move08" />
+    <target
+        android:name="c8"
+        android:animation="@animator/confetti_shimmer_b" />
+
+    <target
+        android:name="g9"
+        android:animation="@animator/confetti_move09" />
+    <target
+        android:name="c9"
+        android:animation="@animator/confetti_shimmer_c" />
+
+    <target
+        android:name="g10"
+        android:animation="@animator/confetti_move10" />
+    <target
+        android:name="c10"
+        android:animation="@animator/confetti_shimmer_a" />
+
+    <target
+        android:name="g11"
+        android:animation="@animator/confetti_move11" />
+    <target
+        android:name="c11"
+        android:animation="@animator/confetti_shimmer_b" />
+
+    <target
+        android:name="g12"
+        android:animation="@animator/confetti_move12" />
+    <target
+        android:name="c12"
+        android:animation="@animator/confetti_shimmer_c" />
+
+</animated-vector>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Retrospect</string>
+    <string name="empty_time_string">00:00:0.000</string>
+    <string name="empty_score_string">00000</string>
+    <string name="sign_in">Sign in</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset_progress">Reset</string>
+    <string name="initial_multiplier">X1</string>
+
+    <string name="programmer">Programmer:</string>
+    <string name="programmer_name">Timi Tayo</string>
+    <string name="artist">Artist:</string>
+    <string name="artist_name">Adeoti Salami</string>
+    <string name="soundtrack">SoundTrack</string>
+    <string name="sam_t">Sam \'STITCH\' Tosin</string>
+    <string name="k4">this</string>
+    <string name="k3">key</string>
+    <string name="k1">is</string>
+    <string name="k2">deleted</string>
+
+</resources>

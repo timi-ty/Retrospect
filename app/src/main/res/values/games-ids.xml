@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">832664978469</string>
+    <!-- package_name -->
+    <!-- achievement Twinkle, Twinkle -->
+    <string name="achievement_twinkle_twinkle" translatable="false">CgkIpYjN9Z0YEAIQAQ</string>
+    <!-- achievement To Tap or Not To Tap -->
+    <string name="achievement_to_tap_or_not_to_tap" translatable="false">CgkIpYjN9Z0YEAIQAg</string>
+    <!-- achievement Reach For The Stars -->
+    <string name="achievement_reach_for_the_stars" translatable="false">CgkIpYjN9Z0YEAIQAw</string>
+    <!-- achievement Galileo's Apprentice -->
+    <string name="achievement_galileos_apprentice" translatable="false">CgkIpYjN9Z0YEAIQBA</string>
+    <!-- achievement Peanuts and Elephants -->
+    <string name="achievement_peanuts_and_elephants" translatable="false">CgkIpYjN9Z0YEAIQBQ</string>
+    <!-- achievement Spill The Shallows -->
+    <string name="achievement_spill_the_shallows" translatable="false">CgkIpYjN9Z0YEAIQBg</string>
+    <!-- achievement Waddle The Middle -->
+    <string name="achievement_waddle_the_middle" translatable="false">CgkIpYjN9Z0YEAIQBw</string>
+    <!-- achievement Dunk The Bottom -->
+    <string name="achievement_dunk_the_bottom" translatable="false">CgkIpYjN9Z0YEAIQCA</string>
+    <!-- achievement For Sparta! -->
+    <string name="achievement_for_sparta" translatable="false">CgkIpYjN9Z0YEAIQCQ</string>
+    <!-- achievement Bleed and Autocracy -->
+    <string name="achievement_bleed_and_autocracy" translatable="false">CgkIpYjN9Z0YEAIQCg</string>
+    <!-- achievement Grey Anti-Matter -->
+    <string name="achievement_grey_antimatter" translatable="false">CgkIpYjN9Z0YEAIQCw</string>
+    <!-- achievement Sticks and Stones -->
+    <string name="achievement_sticks_and_stones" translatable="false">CgkIpYjN9Z0YEAIQDA</string>
+    <!-- achievement Mine Sweeper -->
+    <string name="achievement_mine_sweeper" translatable="false">CgkIpYjN9Z0YEAIQDw</string>
+    <!-- achievement Question-marks and Prayers -->
+    <string name="achievement_questionmarks_and_prayers" translatable="false">CgkIpYjN9Z0YEAIQDQ</string>
+    <!-- achievement Pools of Butter -->
+    <string name="achievement_pools_of_butter" translatable="false">CgkIpYjN9Z0YEAIQDg</string>
+    <!-- achievement Clang With No Fangs -->
+    <string name="achievement_clang_with_no_fangs" translatable="false">CgkIpYjN9Z0YEAIQEA</string>
+    <!-- achievement The Rich Man And The Pauper -->
+    <string name="achievement_the_rich_man_and_the_pauper" translatable="false">CgkIpYjN9Z0YEAIQEQ</string>
+    <!-- achievement Atlas Balls -->
+    <string name="achievement_atlas_balls" translatable="false">CgkIpYjN9Z0YEAIQEg</string>
+    <!-- achievement Magma Over Flames -->
+    <string name="achievement_magma_over_flames" translatable="false">CgkIpYjN9Z0YEAIQEw</string>
+    <!-- achievement Earth Metals Are Rare -->
+    <string name="achievement_earth_metals_are_rare" translatable="false">CgkIpYjN9Z0YEAIQFA</string>
+    <!-- achievement Midas Tried His Best -->
+    <string name="achievement_midas_tried_his_best" translatable="false">CgkIpYjN9Z0YEAIQFQ</string>
+    <!-- achievement Enrich Olympus -->
+    <string name="achievement_enrich_olympus" translatable="false">CgkIpYjN9Z0YEAIQFg</string>
+    <!-- achievement Napoleons Choir -->
+    <string name="achievement_napoleons_choir" translatable="false">CgkIpYjN9Z0YEAIQFw</string>
+    <!-- achievement Juice The Goose -->
+    <string name="achievement_juice_the_goose" translatable="false">CgkIpYjN9Z0YEAIQGA</string>
+    <!-- leaderboard Hall of Champions -->
+    <string name="leaderboard_hall_of_champions" translatable="false">CgkIpYjN9Z0YEAIQGg</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackground">@color/black</item>
+    </style>
+
+    <style name="center_pop_up_anim">
+        <item name="android:windowEnterAnimation">@anim/fail_pop_up_show</item>
+        <item name="android:windowExitAnimation">@anim/fail_pop_up_hide</item>
+    </style>
+
+    <style name="purchase_pop_up_anim">
+        <item name="android:windowEnterAnimation">@anim/purchase_pop_up_show</item>
+        <item name="android:windowExitAnimation">@anim/purchase_pop_up_hide</item>
+    </style>
+
+</resources>

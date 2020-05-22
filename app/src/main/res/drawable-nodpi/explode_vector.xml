@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="10dp"
+    android:width="10dp"
+    android:viewportHeight="200"
+    android:viewportWidth="200">
+    <group
+        android:name="scaleGroup1"
+        android:pivotX="0"
+        android:pivotY="200">
+        <path
+            android:name="v1"
+            android:layout_height="wrap_content"
+            android:fillColor="#FFC107"
+            android:pathData="M100,150 l 1.5,7.5 7.5,1.5 -7.5,1.5 -1.5,7.5 -1.5,-7.5 -7.5,-1.5 7.5,-1.5z" />
+    </group>
+    <group
+        android:name="scaleGroup2"
+        android:pivotX="15"
+        android:pivotY="200">
+        <path
+            android:name="v2"
+            android:layout_height="wrap_content"
+            android:fillColor="#C29205"
+            android:pathData="M100,150 l 0.5,2.5 2.5,0.5 -2.5,0.5 -0.5,2.5 -0.5,-2.5 -2.5,-0.5 2.5,-0.5z" />
+    </group>
+    <group
+        android:name="scaleGroup3"
+        android:pivotX="55"
+        android:pivotY="200">
+        <path
+            android:name="v3"
+            android:layout_height="wrap_content"
+            android:fillColor="#FF477B"
+            android:pathData="M100,150 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="scaleGroup4"
+        android:pivotX="75"
+        android:pivotY="200">
+        <path
+            android:name="v4"
+            android:layout_height="wrap_content"
+            android:fillColor="#856E2B"
+            android:pathData="M100,150 l 1.5,7.5 7.5,1.5 -7.5,1.5 -1.5,7.5 -1.5,-7.5 -7.5,-1.5 7.5,-1.5z" />
+    </group>
+    <group
+        android:name="scaleGroup5"
+        android:pivotX="85"
+        android:pivotY="200">
+        <path
+            android:name="v5"
+            android:layout_height="wrap_content"
+            android:fillColor="#E01919"
+            android:pathData="M100,150 l 0.5,2.5 2.5,0.5 -2.5,0.5 -0.5,2.5 -0.5,-2.5 -2.5,-0.5 2.5,-0.5z" />
+    </group>
+    <group
+        android:name="scaleGroup6"
+        android:pivotX="90"
+        android:pivotY="200">
+        <path
+            android:name="v6"
+            android:layout_height="wrap_content"
+            android:fillColor="#C7A233"
+            android:pathData="M100,150 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="scaleGroup7"
+        android:pivotX="110"
+        android:pivotY="200">
+        <path
+            android:name="v7"
+            android:layout_height="wrap_content"
+            android:fillColor="#FF5722"
+            android:pathData="M100,150 l 1.5,7.5 7.5,1.5 -7.5,1.5 -1.5,7.5 -1.5,-7.5 -7.5,-1.5 7.5,-1.5z" />
+    </group>
+    <group
+        android:name="scaleGroup8"
+        android:pivotX="115"
+        android:pivotY="200">
+        <path
+            android:name="v"
+            android:layout_height="wrap_content"
+            android:fillColor="#866402"
+            android:pathData="M100,150 l 0.5,2.5 2.5,0.5 -2.5,0.5 -0.5,2.5 -0.5,-2.5 -2.5,-0.5 2.5,-0.5z" />
+    </group>
+    <group
+        android:name="scaleGroup9"
+        android:pivotX="125"
+        android:pivotY="200">
+        <path
+            android:name="v9"
+            android:layout_height="wrap_content"
+            android:fillColor="#C4AA5D"
+            android:pathData="M100,150 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="scaleGroup10"
+        android:pivotX="145"
+        android:pivotY="200">
+        <path
+            android:name="v10"
+            android:layout_height="wrap_content"
+            android:fillColor="#CAA020"
+            android:pathData="M100,150 l 1.5,7.5 7.5,1.5 -7.5,1.5 -1.5,7.5 -1.5,-7.5 -7.5,-1.5 7.5,-1.5z" />
+    </group>
+    <group
+        android:name="scaleGroup11"
+        android:pivotX="185"
+        android:pivotY="200">
+        <path
+            android:name="v11"
+            android:layout_height="wrap_content"
+            android:fillColor="#FF3E00"
+            android:pathData="M100,150 l 0.5,2.5 2.5,0.5 -2.5,0.5 -0.5,2.5 -0.5,-2.5 -2.5,-0.5 2.5,-0.5z" />
+    </group>
+    <group
+        android:name="scaleGroup12"
+        android:pivotX="200"
+        android:pivotY="200">
+        <path
+            android:name="v12"
+            android:layout_height="wrap_content"
+            android:fillColor="#EBB924"
+            android:pathData="M100,150 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+</vector>

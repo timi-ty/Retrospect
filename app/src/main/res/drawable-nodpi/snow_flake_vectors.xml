@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="200dp"
+    android:width="117dp"
+    android:viewportHeight="1024"
+    android:viewportWidth="600">
+    <group
+        android:name="flake01"
+        android:scaleY="0.8"
+        android:scaleX="0.8"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf1"
+            android:layout_height="wrap_content"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake02"
+        android:scaleY="0.5"
+        android:scaleX="0.5"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf2"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake03"
+        android:scaleY="1.1"
+        android:scaleX="1.1"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf3"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+
+    <group
+        android:name="flake04"
+        android:scaleY="0.7"
+        android:scaleX="0.7"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf4"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake05"
+        android:scaleY="1.0"
+        android:scaleX="1.0"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf5"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake06"
+        android:scaleY="0.9"
+        android:scaleX="0.9"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf6"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake07"
+        android:scaleY="0.55"
+        android:scaleX="0.55"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf7"
+            android:layout_height="wrap_content"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake08"
+        android:scaleY="1.2"
+        android:scaleX="1.2"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf8"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake09"
+        android:scaleY="0.75"
+        android:scaleX="0.75"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf9"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+
+    <group
+        android:name="flake10"
+        android:scaleY="1.0"
+        android:scaleX="1.0"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf10"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake11"
+        android:scaleY="0.65"
+        android:scaleX="0.65"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf11"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+    <group
+        android:name="flake12"
+        android:scaleY="0.95"
+        android:scaleX="0.95"
+        android:pivotX="0"
+        android:pivotY="6">
+        <path
+            android:name="sf12"
+            android:fillColor="#ffffff"
+            android:pathData="M0,0 l 1,5 5,1 -5,1 -1,5 -1,-5 -5,-1 5,-1z" />
+    </group>
+
+</vector>
